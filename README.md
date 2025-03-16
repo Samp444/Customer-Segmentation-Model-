@@ -1,1 +1,3 @@
 # Customer-Segmentation-Model-
+
+The Customer Segmentation Model leverages machine learning techniques to classify customers into distinct groups based on their purchasing behavior and demographic features, such as annual income and spending score. By utilizing clustering algorithms, the model identifies patterns and similarities among customers, allowing businesses to tailor marketing strategies, improve customer satisfaction, and enhance product offerings. This project provides an intuitive user interface for inputting customer data and displays the predicted customer segment, helping businesses make data-driven decisions and foster customer retention.
